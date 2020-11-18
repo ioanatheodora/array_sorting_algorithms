@@ -1,1 +1,1 @@
-We implement 3 sorting algorithms
+# Sorting Algorithm for Integer Arrays
