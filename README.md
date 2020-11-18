@@ -1,1 +1,1 @@
-# Sorting ALgorithms for Begginers
+We implement 3 sorting algorithms
